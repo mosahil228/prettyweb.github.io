@@ -25,9 +25,10 @@
                                                                                                             display: inline-block;
                                                                                                         }
                                                                                                       .row .mega-links li a {
-                                                                                                            color: red;
+                                                                                                            color: white;
                                                                                                         font-weight:bold;
                                                                                                          font-family: sans-serif;
+                                                                                                        font-size:13px;
                                                                                                         }
                                                                                                         .reviews-star2 li {
                                                                                                             max-width: 609px;
