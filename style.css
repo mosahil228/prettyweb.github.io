@@ -628,6 +628,18 @@
                                                                                                     display: flex;
                                                                                                 }
                                                                                                 
+                                                                                                .fg-main12 {
+                                                                                                    justify-content: center;
+                                                                                                    align-items: center;
+                                                                                                    display: flex;
+                                                                                                }
+                                                                                                
+                                                                                                .fg-main13 {
+                                                                                                    justify-content: center;
+                                                                                                    align-items: center;
+                                                                                                    display: flex;
+                                                                                                }
+                                                                                                
                                                                                                 .fg-main2 {
                                                                                                     justify-content: center;
                                                                                                     align-items: center;
@@ -702,7 +714,20 @@
                                                                                                     font-weight: bold;
                                                                                                 }
                                                                                                 
+                                                                                                .fg3 li a {
+                                                                                                    text-decoration: none;
+                                                                                                    list-style: none;
+                                                                                                    color: white;
+                                                                                                    font-family: 'Cabin', sans-serif;
+                                                                                                    font-weight: bold;
+                                                                                                }
+                                                                                                
                                                                                                 .fg2 img {
+                                                                                                    height: 290px;
+                                                                                                    display: block;
+                                                                                                }
+                                                                                                
+                                                                                                .fg3 img {
                                                                                                     height: 290px;
                                                                                                     display: block;
                                                                                                 }
