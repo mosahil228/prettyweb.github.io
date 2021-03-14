@@ -9,9 +9,7 @@
                                                                                                         .footer-items h2 {
                                                                                                             font-size: 16px;
                                                                                                         }
-                                                                                                        .row .mega-links li a {
-                                                                                                            color: white;
-                                                                                                        }
+                                                                                                        
                                                                                                         .rightNav li a {
                                                                                                             font-family: sans-serif;
                                                                                                             font-weight: bold;
@@ -25,6 +23,9 @@
                                                                                                             margin: 0px;
                                                                                                             padding: 22px 0px;
                                                                                                             display: inline-block;
+                                                                                                        }
+                                                                                                      .row .mega-links li a {
+                                                                                                            color: white;
                                                                                                         }
                                                                                                         .reviews-star2 li {
                                                                                                             max-width: 609px;
@@ -43,6 +44,9 @@
                                                                                                     @media only screen and (max-width:880px) {
                                                                                                         .rightNav .btn {
                                                                                                             display: none;
+                                                                                                        }
+                                                                                                      .row .mega-links li a {
+                                                                                                            color: white;
                                                                                                         }
                                                                                                         @media only screen and (max-width: 100px) {
                                                                                                             .nav-list {
