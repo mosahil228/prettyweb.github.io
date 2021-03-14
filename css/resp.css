@@ -26,6 +26,7 @@
                                                                                                         }
                                                                                                       .row .mega-links li a {
                                                                                                             color: white;
+                                                                                                        font-weight:bold;
                                                                                                         }
                                                                                                         .reviews-star2 li {
                                                                                                             max-width: 609px;
@@ -45,9 +46,8 @@
                                                                                                         .rightNav .btn {
                                                                                                             display: none;
                                                                                                         }
-                                                                                                      .row .mega-links li a {
-                                                                                                            color: white;
-                                                                                                        }
+                                                                                                      }
+                                                                                                      
                                                                                                         @media only screen and (max-width: 100px) {
                                                                                                             .nav-list {
                                                                                                                 flex-direction: column;
