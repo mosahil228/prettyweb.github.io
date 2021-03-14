@@ -1,211 +1,213 @@
-                                                                                                    @media only screen and (max-width:1030px) {
-                                                                                                        .fg1 img {
-                                                                                                            width: 100%;
-                                                                                                        }
-                                                                                                        .fg2 img {
-                                                                                                            height: 100%;
-                                                                                                            width: 100%;
-                                                                                                        }
-                                                                                                        .footer-items h2 {
-                                                                                                            font-size: 16px;
-                                                                                                        }
-                                                                                                        
-                                                                                                        .rightNav li a {
-                                                                                                            font-family: sans-serif;
-                                                                                                            font-weight: bold;
-                                                                                                        }
-                                                                                                        .row4 li a {
-                                                                                                            font-size: 14px;
-                                                                                                            font-family: sans-serif;
-                                                                                                        }
-                                                                                                        .row4 li {
-                                                                                                            font-weight: bold;
-                                                                                                            margin: 0px;
-                                                                                                            padding: 22px 0px;
-                                                                                                            display: inline-block;
-                                                                                                        }
-                                                                                                      .row .mega-links li a {
-                                                                                                            color: white;
-                                                                                                        font-weight:bold;
-                                                                                                         font-family: sans-serif;
-                                                                                                        font-size:13px;
-                                                                                                        }
-                                                                                                        .reviews-star2 li {
-                                                                                                            max-width: 609px;
-                                                                                                            height: auto;
-                                                                                                            left: auto;
-                                                                                                        }
-                                                                                                        .social-media i {
-                                                                                                            height: 15px;
-                                                                                                            width: 14px;
-                                                                                                            margin: 3px -1px;
-                                                                                                            padding: 10px;
-                                                                                                            font-size: unset;
-                                                                                                        }
+                                                                                                @media only screen and (max-width:1030px) {
+                                                                                                    .fg1 img {
+                                                                                                        width: 100%;
                                                                                                     }
-                                                                                                    
-                                                                                                    @media only screen and (max-width:880px) {
-                                                                                                        .rightNav .btn {
-                                                                                                            display: none;
-                                                                                                        }
-                                                                                                      }
-                                                                                                      
-                                                                                                        @media only screen and (max-width: 100px) {
-                                                                                                            .nav-list {
-                                                                                                                flex-direction: column;
-                                                                                                                height: auto;
-                                                                                                            }
-                                                                                                            h4 {
-                                                                                                                display: none;
-                                                                                                            }
-                                                                                                            .nav-list li {
-                                                                                                                display: none;
-                                                                                                            }
-                                                                                                            .midNav {
-                                                                                                                padding: 25px;
-                                                                                                            }
-                                                                                                            .content .row header {
-                                                                                                                display: none;
-                                                                                                            }
-                                                                                                            .search-colors {
-                                                                                                                display: grid;
-                                                                                                            }
-                                                                                                            .fg1 img {
-                                                                                                                width: 600px;
-                                                                                                            }
-                                                                                                            .fg2 img {
-                                                                                                                width: 228px;
-                                                                                                            }
-                                                                                                            .fg-main3 li,
-                                                                                                            .fg-main li {
-                                                                                                                padding: 0px 4px;
-                                                                                                            }
-                                                                                                            .fg-main9,
-                                                                                                            .fg-main2 {
-                                                                                                                flex-direction: column;
-                                                                                                            }
-                                                                                                            .rightNav li {
-                                                                                                                padding: 8px;
-                                                                                                            }
-                                                                                                            .nav-list li {
-                                                                                                                list-style: none;
-                                                                                                                padding: 12px 13px;
-                                                                                                            }
-                                                                                                            .navbar {
-                                                                                                                background-color: black;
-                                                                                                                transition: all 0.7s ease-out;
-                                                                                                                flex-direction: column;
-                                                                                                                height: 350px;
-                                                                                                            }
-                                                                                                            .rightNav {
-                                                                                                                flex-direction: column;
-                                                                                                                z-index: 1;
-                                                                                                            }
-                                                                                                            .nav-list>i {
-                                                                                                                color: white;
-                                                                                                                position: absolute;
-                                                                                                                margin: 0px 43px 0px 183px;
-                                                                                                                top: 6px;
-                                                                                                            }
-                                                                                                            .rightNav .btn {
-                                                                                                                display: block;
-                                                                                                                margin: 27px 10px;
-                                                                                                            }
-                                                                                                            .burger {
-                                                                                                                display: block;
-                                                                                                            }
-                                                                                                            .midNav li {
-                                                                                                                padding: 8px;
-                                                                                                            }
-                                                                                                            .v-class {
-                                                                                                                opacity: 0;
-                                                                                                            }
-                                                                                                            .h-nav {
-                                                                                                                height: 72px;
-                                                                                                            }
-                                                                                                        }
-                                                                                                        @media only screen and (max-width:3px) {
-                                                                                                            .row4 {
-                                                                                                                flex-direction: column;
-                                                                                                            }
-                                                                                                            .row4 li {
-                                                                                                                padding: 0px;
-                                                                                                            }
-                                                                                                            .fg-main,
-                                                                                                            .fg-main2,
-                                                                                                            .fg-main3,
-                                                                                                            .fg-main6,
-                                                                                                            .fg-main9 {
-                                                                                                                flex-direction: column;
-                                                                                                            }
-                                                                                                        }
-                                                                                                        /* .fg1 img {
-            width: 400px;
-        }
-        .fg2 img {
-            height: 240px;
-            width: 400px;
-        } */
-                                                                                                        .reviews-star li {
-                                                                                                            margin: 6px;
-                                                                                                        }
-                                                                                                        .reviews-star2 li {
-                                                                                                            left: 1px;
-                                                                                                        }
-                                                                                                        .reviews-star3 img {
-                                                                                                            width: 343px;
-                                                                                                        }
-                                                                                                        .inner-footer {
-                                                                                                            align-items: center;
-                                                                                                            flex-direction: column;
-                                                                                                        }
+                                                                                                    .fg2 img {
+                                                                                                        height: 100%;
+                                                                                                        width: 100%;
                                                                                                     }
-                                                                                                    
-                                                                                                    @media only screen and (max-width:477px) {
-                                                                                                        .sectionflex {
-                                                                                                            flex-direction: column-reverse;
-                                                                                                        }
-                                                                                                        .nw-gift input {
-                                                                                                            width: 155px;
-                                                                                                        }
+                                                                                                    .fg-main12 {
+                                                                                                        flex-direction: column;
                                                                                                     }
-                                                                                                    
-                                                                                                    @media only screen and (max-width:620px) {
-                                                                                                        .footer-items p {
-                                                                                                            font-size: 12px;
-                                                                                                            width: 140px;
-                                                                                                        }
+                                                                                                    .footer-items h2 {
+                                                                                                        font-size: 12px;
                                                                                                     }
-                                                                                                    
-                                                                                                    @media only screen and (max-width:550px) {
-                                                                                                        .footer-a li a {
-                                                                                                            font-size: 8px;
-                                                                                                        }
+                                                                                                    .row .mega-links li a {
+                                                                                                        color: white;
+                                                                                                        font-weight: bold;
+                                                                                                        font-family: sans-serif;
                                                                                                     }
-                                                                                                    
-                                                                                                    @media only screen and (max-width:600px) {
-                                                                                                        .footer-items h2 {
-                                                                                                            font-size: 11px;
-                                                                                                            margin-top: 6px;
-                                                                                                        }
-                                                                                                        .footer-items a img {
-                                                                                                            width: 100px;
-                                                                                                        }
+                                                                                                    .rightNav li a {
+                                                                                                        font-family: sans-serif;
+                                                                                                        font-weight: bold;
                                                                                                     }
-                                                                                                    
-                                                                                                    @media only screen and (max-width: 380px) {
-                                                                                                        .fg1 img,
-                                                                                                        .fg2 img {
-                                                                                                            width: 250px;
-                                                                                                        }
-                                                                                                        .reviews-star li,
-                                                                                                        .reviews-star2 li {
-                                                                                                            max-width: 250px;
-                                                                                                        }
-                                                                                                        .reviews-star3 img {
-                                                                                                            width: 250px;
-                                                                                                        }
-                                                                                                        .btn4 {
-                                                                                                            margin-top: 18px;
-                                                                                                        }
+                                                                                                    .row4 li a {
+                                                                                                        font-size: 14px;
+                                                                                                        font-family: sans-serif;
                                                                                                     }
+                                                                                                    .row4 li {
+                                                                                                        font-weight: bold;
+                                                                                                        margin: 0px;
+                                                                                                        padding: 22px 0px;
+                                                                                                        display: inline-block;
+                                                                                                    }
+                                                                                                    .reviews-star2 li {
+                                                                                                        position: revert;
+                                                                                                        vertical-align: top;
+                                                                                                        background: #ff6569;
+                                                                                                        text-align: center;
+                                                                                                        padding: 20px;
+                                                                                                        height: auto;
+                                                                                                        box-sizing: border-box;
+                                                                                                        max-width: 610px;
+                                                                                                        list-style: none;
+                                                                                                        margin: 3px;
+                                                                                                        left: 34px;
+                                                                                                    }
+                                                                                                    .social-media i {
+                                                                                                        height: 15px;
+                                                                                                        width: 14px;
+                                                                                                        margin: 3px -1px;
+                                                                                                        padding: 10px;
+                                                                                                        font-size: unset;
+                                                                                                    }
+                                                                                                }
+                                                                                                
+                                                                                                @media only screen and (max-width:880px) {
+                                                                                                    .rightNav .btn {
+                                                                                                        display: none;
+                                                                                                    }
+                                                                                                }
+                                                                                                
+                                                                                                @media only screen and (max-width: 100px) {
+                                                                                                    .nav-list {
+                                                                                                        flex-direction: column;
+                                                                                                        height: auto;
+                                                                                                    }
+                                                                                                    h4 {
+                                                                                                        display: none;
+                                                                                                    }
+                                                                                                    .nav-list li {
+                                                                                                        display: none;
+                                                                                                    }
+                                                                                                    .midNav {
+                                                                                                        padding: 25px;
+                                                                                                    }
+                                                                                                    .content .row header {
+                                                                                                        display: none;
+                                                                                                    }
+                                                                                                    .search-colors {
+                                                                                                        display: grid;
+                                                                                                    }
+                                                                                                    .fg1 img {
+                                                                                                        width: 600px;
+                                                                                                    }
+                                                                                                    .fg2 img {
+                                                                                                        width: 228px;
+                                                                                                    }
+                                                                                                    .fg-main3 li,
+                                                                                                    .fg-main li {
+                                                                                                        padding: 0px 4px;
+                                                                                                    }
+                                                                                                    .fg-main9,
+                                                                                                    .fg-main2 {
+                                                                                                        flex-direction: column;
+                                                                                                    }
+                                                                                                    .rightNav li {
+                                                                                                        padding: 8px;
+                                                                                                    }
+                                                                                                    .nav-list li {
+                                                                                                        list-style: none;
+                                                                                                        padding: 12px 13px;
+                                                                                                    }
+                                                                                                    .navbar {
+                                                                                                        background-color: black;
+                                                                                                        transition: all 0.7s ease-out;
+                                                                                                        flex-direction: column;
+                                                                                                        height: 350px;
+                                                                                                    }
+                                                                                                    .rightNav {
+                                                                                                        flex-direction: column;
+                                                                                                        z-index: 1;
+                                                                                                    }
+                                                                                                    .nav-list>i {
+                                                                                                        color: white;
+                                                                                                        position: absolute;
+                                                                                                        margin: 0px 43px 0px 183px;
+                                                                                                        top: 6px;
+                                                                                                    }
+                                                                                                    .rightNav .btn {
+                                                                                                        display: block;
+                                                                                                        margin: 27px 10px;
+                                                                                                    }
+                                                                                                    .burger {
+                                                                                                        display: block;
+                                                                                                    }
+                                                                                                    .midNav li {
+                                                                                                        padding: 8px;
+                                                                                                    }
+                                                                                                    .v-class {
+                                                                                                        opacity: 0;
+                                                                                                    }
+                                                                                                    .h-nav {
+                                                                                                        height: 72px;
+                                                                                                    }
+                                                                                                }
+                                                                                                
+                                                                                                @media only screen and (max-width:3px) {
+                                                                                                    .row4 {
+                                                                                                        flex-direction: column;
+                                                                                                    }
+                                                                                                    .row4 li {
+                                                                                                        padding: 0px;
+                                                                                                    }
+                                                                                                    .fg-main,
+                                                                                                    .fg-main2,
+                                                                                                    .fg-main3,
+                                                                                                    .fg-main6,
+                                                                                                    .fg-main9 {
+                                                                                                        flex-direction: column;
+                                                                                                    }
+                                                                                                    .reviews-star li {
+                                                                                                        margin: 6px;
+                                                                                                    }
+                                                                                                    .reviews-star2 li {
+                                                                                                        left: 1px;
+                                                                                                    }
+                                                                                                    .reviews-star3 img {
+                                                                                                        width: 343px;
+                                                                                                    }
+                                                                                                    .inner-footer {
+                                                                                                        align-items: center;
+                                                                                                        flex-direction: column;
+                                                                                                    }
+                                                                                                }
+                                                                                                
+                                                                                                @media only screen and (max-width:477px) {
+                                                                                                    .sectionflex {
+                                                                                                        flex-direction: column-reverse;
+                                                                                                    }
+                                                                                                    .nw-gift input {
+                                                                                                        width: 155px;
+                                                                                                    }
+                                                                                                }
+                                                                                                
+                                                                                                @media only screen and (max-width:620px) {
+                                                                                                    .footer-items p {
+                                                                                                        font-size: 12px;
+                                                                                                        width: 140px;
+                                                                                                    }
+                                                                                                }
+                                                                                                
+                                                                                                @media only screen and (max-width:550px) {
+                                                                                                    .footer-a li a {
+                                                                                                        font-size: 8px;
+                                                                                                    }
+                                                                                                }
+                                                                                                
+                                                                                                @media only screen and (max-width:600px) {
+                                                                                                    .footer-items h2 {
+                                                                                                        font-size: 11px;
+                                                                                                        margin-top: 6px;
+                                                                                                    }
+                                                                                                    .footer-items a img {
+                                                                                                        width: 100px;
+                                                                                                    }
+                                                                                                }
+                                                                                                
+                                                                                                @media only screen and (max-width: 380px) {
+                                                                                                    .fg1 img,
+                                                                                                    .fg2 img {
+                                                                                                        width: 250px;
+                                                                                                    }
+                                                                                                    .reviews-star li,
+                                                                                                    .reviews-star2 li {
+                                                                                                        max-width: 250px;
+                                                                                                    }
+                                                                                                    .reviews-star3 img {
+                                                                                                        width: 250px;
+                                                                                                    }
+                                                                                                    .btn4 {
+                                                                                                        margin-top: 18px;
+                                                                                                    }
+                                                                                                }
